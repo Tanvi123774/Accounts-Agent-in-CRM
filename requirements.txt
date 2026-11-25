@@ -1,0 +1,5 @@
+google-adk
+groq
+python-dotenv
+pandas
+python-multipart
